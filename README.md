@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Diane's Project Information
+
+From Patrick God YouTube tutorial (https://www.youtube.com/watch?v=dtthbiP3SE0&list=PLQGV9Cjijh-wrfK-ozKrHM5U5yjbE4_xf&index=1)
+Patrick God GitHub repo found at https://github.com/patrickgod/SuperHeroNG
