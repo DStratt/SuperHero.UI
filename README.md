@@ -31,5 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - From Patrick God YouTube tutorial (https://www.youtube.com/watch?v=dtthbiP3SE0&list=PLQGV9Cjijh-wrfK-ozKrHM5U5yjbE4_xf&index=1)
 - Patrick God GitHub repo found at https://github.com/patrickgod/SuperHeroNG
-- For back end, see SuperHeroAPI repository which uses .Net 6, EF Core, and SQL Express
+- For back end, see SuperHeroAPI-net6 repository which uses .NET 6, EF Core, and SQL Express
   
